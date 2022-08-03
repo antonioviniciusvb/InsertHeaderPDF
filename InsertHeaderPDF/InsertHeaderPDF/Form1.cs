@@ -18,9 +18,9 @@ namespace InsertHeaderPDF
 {
     public partial class Form1 : Form
     {
-        string program = @"c:\visualjet\vjrun.exe";
-        string project = @"C:\Users\andvi\OneDrive\Project\VisualJet\ETIQUETA\SEQUENCIAL\ETIQUETA.vjr";
-        string dataFile = @"C:\Users\andvi\OneDrive\Project\VisualJet\ETIQUETA\SEQUENCIAL\process.txt";
+        string program = @"c:\vjrun.exe";
+        string project = @"C:\ETIQUETA.vjr";
+        string dataFile = @"C:\process.txt";
         string printer = "Adobe PDF";
         string options_1 = "INICIAL=1";
         string options_2 = "TOTAL=100";
