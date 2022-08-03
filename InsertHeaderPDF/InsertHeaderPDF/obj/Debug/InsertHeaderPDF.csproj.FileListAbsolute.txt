@@ -1,0 +1,14 @@
+C:\Users\andvi\OneDrive\Project\C#\InsertHeaderPDF\InsertHeaderPDF\bin\Debug\InsertHeaderPDF.exe.config
+C:\Users\andvi\OneDrive\Project\C#\InsertHeaderPDF\InsertHeaderPDF\bin\Debug\InsertHeaderPDF.exe
+C:\Users\andvi\OneDrive\Project\C#\InsertHeaderPDF\InsertHeaderPDF\bin\Debug\InsertHeaderPDF.pdb
+C:\Users\andvi\OneDrive\Project\C#\InsertHeaderPDF\InsertHeaderPDF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\andvi\OneDrive\Project\C#\InsertHeaderPDF\InsertHeaderPDF\bin\Debug\itextsharp.dll
+C:\Users\andvi\OneDrive\Project\C#\InsertHeaderPDF\InsertHeaderPDF\bin\Debug\itextsharp.xml
+C:\Users\andvi\OneDrive\Project\C#\InsertHeaderPDF\InsertHeaderPDF\obj\Debug\InsertHeaderPDF.csprojAssemblyReference.cache
+C:\Users\andvi\OneDrive\Project\C#\InsertHeaderPDF\InsertHeaderPDF\obj\Debug\InsertHeaderPDF.Form1.resources
+C:\Users\andvi\OneDrive\Project\C#\InsertHeaderPDF\InsertHeaderPDF\obj\Debug\InsertHeaderPDF.Properties.Resources.resources
+C:\Users\andvi\OneDrive\Project\C#\InsertHeaderPDF\InsertHeaderPDF\obj\Debug\InsertHeaderPDF.csproj.GenerateResource.cache
+C:\Users\andvi\OneDrive\Project\C#\InsertHeaderPDF\InsertHeaderPDF\obj\Debug\InsertHeaderPDF.csproj.CoreCompileInputs.cache
+C:\Users\andvi\OneDrive\Project\C#\InsertHeaderPDF\InsertHeaderPDF\obj\Debug\InsertHeaderPDF.csproj.CopyComplete
+C:\Users\andvi\OneDrive\Project\C#\InsertHeaderPDF\InsertHeaderPDF\obj\Debug\InsertHeaderPDF.exe
+C:\Users\andvi\OneDrive\Project\C#\InsertHeaderPDF\InsertHeaderPDF\obj\Debug\InsertHeaderPDF.pdb
